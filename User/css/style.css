@@ -1,0 +1,17 @@
+.w-450 {
+	width: 450px;
+}
+.vh-100 {
+	min-height: 80vh;
+}
+.w-350 {
+	width: 300px;
+}
+
+.img-fluid {
+	max-width: 80%;
+	height: auto;
+}
+
+ 
+ 
